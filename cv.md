@@ -10,7 +10,7 @@
 
 **Telegram:** @marfantyk
 
-**GitHub:** [marfantyk](https://github.com/Marfantyk)
+**GitHub:** [Marfantyk](https://github.com/Marfantyk)
 
 **Instragram:** [koval.mdesign](https://vk.com/away.php?utf=1&to=https%3A%2F%2Finstagram.com%2Fkoval.mdesign%3Figshid%3DYmMyMTA2M2Y%3D)
 
