@@ -1,7 +1,7 @@
 # Maria Koval #
 
 ## Junior Front-End developer ##
----
+
 ### Contact information: ###
 
 **Phone:** +7 931-364-82-33
@@ -41,11 +41,13 @@ I have a medical degree and prior experience in graphic design.
 3. Git, GitHub
 4. Basics of C, Python, Flask, SQLite
 5. Adobe Illustrator
+
 ----
 
 ### Work experience: ###
 
 None
+
 ___
 ### Code examples: ###
 The following code was used to creat popping-up greeting message:
@@ -62,6 +64,6 @@ function dissap(){
 
 ### Languages ###
 * Russian - native
-* English - B2-C1, advanced (C2 according to online test [EFSET](https://www.efset.org/quick-check/))![certificate]
+* English - B2-C1, advanced (C2 according to online test [EFSET](https://www.efset.org/quick-check/))
 * I have practise with English everyday: with my foreign friends, while reading/listening information for studying, also participated international meetings such as: Heals meating, Longevity fellowship meeting
 * Portuguese - A1
