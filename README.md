@@ -1,2 +1,1 @@
-# rsschool-cv
-CV as a part of RS school course
+https://marfantyk.github.io/rsschool-cv/cv
