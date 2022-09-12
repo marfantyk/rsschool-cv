@@ -1,1 +1,1 @@
-https://marfantyk.github.io/rsschool-cv/cv
+https://marfantyk.github.io/rsschool-cv/
