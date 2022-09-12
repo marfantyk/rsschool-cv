@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="styles.css" rel="stylesheet">
+        <title>cv</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Uncial+Antiqua&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <div class="container header-container"> 
+            <nav class="nav">
+                <ul class="container nav-list">
+                  <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                  <li class="nav-item"><a href="#about" class="nav-link">About me</a></li>
+                  <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                  <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                  <li class="nav-item"><a href="#work" class="nav-link">My work</a></li>
+                  <li class="nav-item"><a href="#code" class="nav-link">Code examples</a></li>
+                  <li class="nav-item"><a href="#languages" class="nav-link">Languagess</a></li>
+                </ul>
+              </nav>
+            </div>
+        </header>
+        <main>
+            <div class="container main-container">
+            <section class="section section-profile" id="profile">
+                <img src="photo.png" alt="photo">
+                <div class="section profile-title">
+                    <h1 class="profile-title title">Maria Koval</h1>
+                    <h3 class="profile-title subtitle">Junior Front-End developer</h3>
+                </div>
+            </section> 
+            <section class="section section-contacts" id="contacts">
+                <h2 class="section-contacts section-title">Contact information:</h2>
+                <p><b>Phone:</b> +7 931-364-82-33</p>
+                <p><b>E-mail:</b> marfantyk@gmail.com</p>
+                <p><b>Telegram:</b> @marfantyk</p>
+                <p><b>GitHub:</b><a href="https://github.com/Marfantyk"> Marfantyk</a></p>
+                <p><b>Instragram:</b> <a href="https://vk.com/away.php?utf=1&to=https%3A%2F%2Finstagram.com%2Fkoval.mdesign%3Figshid%3DYmMyMTA2M2Y%3D">koval.mdesign</a></p>
+            </section>
+            <section class="section section-about" id="about">
+                <h2 class="section-about section-title">About me</h2>
+                <p>I am keen to learn as much as I can about Front-End development and programming in general. </p>
+                <p>I am a very calm and consistent person who is willing to put as much effort and time as possible to achieve best results in the given circumstances.</p>
+                <p>I have a medical degree and prior experience in graphic design.</p>
+            </section>
+            <section class="section section-education" id="education">
+                <h2 class="section-education section-title">Education</h2>
+                <p><b>University:</b>Pavlov First State Medical University of St. Petersburg, Dentistry Department (<i>GPA 4,9 out of 5</i>)</p> 
+                <p><b>Courses:</b></p>
+                <ul>
+                    <li>CS50x</li>
+                    <li>FreeCodeCamp</li>
+                </ul>
+            </section>
+            <section class="section section-skills" id="skills">
+                <h2 class="section-skills section-title">Skills</h2>
+                <ol>
+                    <li>HTML5, CSS3, Bootstrap</li>
+                    <li>JavaScript</li>
+                    <li>Git, GitHub</li>
+                    <li>Basics of C, Python, Flask, SQLite</li>
+                    <li>Adobe Illustrator</li>
+                </ol>
+            </section>
+            <section class="section section-work" id="work">
+                <h2 class="section-work section-title">Work experience:</h2>
+                <p>None</p>
+            </section>
+            <section class="section section-code" id="code">
+                <h2 class="section-code section-title">Code examples</h2>
+                <p>The following code was used to creat popping-up greeting message:</p>
+                ```javascript
+                const myTimeout = setTimeout(appear, 2500);
+                function appear(){
+                    document.getElementById('box').style.display = "block";
+                    }
+                function dissap(){
+                    document.getElementById('box').style.display = "none";
+                    }
+                ```
+            </section>
+            <section class="section section-languages" id="languages">
+                <h2 class="section-languages section-title">Languages</h2>
+                <ul>
+                    <li>Russian - native</li>
+                    <li>English - B2-C1, advanced (C2 according to online test <a href="https://www.efset.org/quick-check/">EFSET</a></li>
+                    <li>I have practise with English everyday: with my foreign friends, 
+                    while reading/listening information for studying, also participated international meetings 
+                    such as: Heals meating, Longevity fellowship meeting</li>
+                    <li>Portuguese - A1</li>
+                </ul>
+            </section>
+            </div>
+        </main>
+        <footer>
+            <div class="container footer-container">
+                <p>2022 done</p>
+            </div> 
+        </footer>
+    </body>
+  </html>
